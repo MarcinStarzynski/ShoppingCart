@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Hogwarts Legacy",
+    "price": 60.2,
+    "imgUrl": "/images/Hogwart.jpg"
+  },
+  {
+    "id": 2,
+    "name": "No Man's Sky",
+    "price": 70.41,
+    "imgUrl": "/images/NoMans.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Tiny Tina's Wonderlands",
+    "price": 40.47,
+    "imgUrl": "/images/Wonderlands.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Valheim",
+    "price": 35.99,
+    "imgUrl": "/images/Valheim.jpg"
+  }
+]
